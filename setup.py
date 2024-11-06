@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 
 __version__ = "0.0.4"
 REPO_NAME = "MongoDB-Package-Python"
-PKG_NAME= "DatabaseAutomation"
+PKG_NAME= "MongoAutomation"
 AUTHOR_USER_NAME = "Abishek04123"
 AUTHOR_EMAIL = "redme.abi04123@gmail.com"
 
